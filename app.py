@@ -2,7 +2,6 @@ from flask import Flask, render_template, request, send_file
 import io
 import os
 from pytube import YouTube
-from tkinter import filedialog
 import ffmpeg
 
 
